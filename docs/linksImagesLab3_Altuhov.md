@@ -4,7 +4,8 @@
 ---
 * [Руководство по Markdown]( https://www.markdownguide.org/. "Официальный сайт Markdown")
 ---
-* [Поисковая система Google](https://google.com)
+* [Поисковая система Google](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Простите")
 ---
 ![Первый пуш репозитория](../img/gitPushLab3_Altuhov.png)
-![Второй пуш репозитория](commitStructureLab3_Altuhov.png)
+---
+![Второй пуш репозитория](../img/commitStructureLab3_Altuhov.png)
